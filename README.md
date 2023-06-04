@@ -1,3 +1,3 @@
 # Quizzana
-A quizzing website
+Website
 Link:https://dipenderguptaa.github.io/Quizzana/
